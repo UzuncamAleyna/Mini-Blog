@@ -1,0 +1,47 @@
+[
+    {
+        "slug": "aquarium",
+        "title": "Bezoek L' Aquarium de Barcelona",
+        "intro": "L'Aquarium de Barcelona is 1 van de populaire bezienswaardigheden van Barcelona. In deze blog zal je meer te weten komen wat je allemaal van activiteiten kan doen en welke zeedieren er allemaal te zien zijn.",
+        "description": "L'Aquarium de Barcelona is gelegen in de haven van Barcelona. Ik heb het bezoek aan het aquarium ingepland met een bezoek aan de Maremagnum winkelcentrum die zich vlak bij het aquarium bevind. Ik heb het aquarium bezocht met mijn beste vriendin en het was een moment om niet te vergeten. Wij zijn beide dierenliefhebbers en zeker als het komt op zeedieren. Wat mij het meest is bijgebleven is dat je met een rolband door het aquarium gaat. Het lijkt alsof je tussen de vissen en haaien aan het lopen bent. Je kunt ook vissen voeden met een klein flesje wat ook een super leuk tussendoortje is tijdens het bekijken van alle zeedieren. Na het doorlopen van heel het aquarium heb je op het einde een restaurant waar en ook een souvenirshop. Daar heb ik een waterbol voor mijn zus gekocht waar Nemo in zit. Het is zeker het bezoeken waard zowel voor kinderen als ouderen.",
+        "cover": "../images/aqua3.jpg",
+        "album": 
+        [
+            "../images/aqua1.jpg",
+            "../images/aqua2.jpg",
+            "../images/aqua3.jpg",
+            "../images/aqua4.jpg",
+            "../images/aqua5.jpg"
+        ]
+    },
+    {
+        "slug": "sagrada",
+        "title": "Avontuur tijdens bezoek aan Sagrada Familia",
+        "intro": "De Sagrada Familia is 1 van de bekendste historische gebouwen van Barcelona. Tijdens mijn bezoek langs de Sagrada Familia heb ik iets meegemaakt dat ik nooit zal vergeten.",
+        "description": "Ik ben de Sagrada Familia gaan bezoeken op een zonnige dag met mijn vriendinnen van school. Helaas zijn we er niet kunnen ingaan, omdat het heel druk was, maar het was ook leuk om er langs te passeren. Daar hebben we ook een foto getrokken met een streetsinger. Dichtbij het gebouw is er een klein parkje waar je kunt genieten van het mooie uitzicht van de Sagrada Familia. Terwijl dat ik en mijn beste vriendin op een bankje aan het zitten waren, heeft er een vogel op ons gekakt. We besloten om meteen recht te staan en ons te verzetten naar het volgende bankje waar we het konden afvegen. Vlak na dat moment kakt er een tweede vogel op ons. Verschillende spanjaarden kwamen naar ons toe en zeiden dat we mee moesten doen aan de lotto, omdat het een teken van geluk is. Dus als je ooit van plan bent om dat parkje te bezoeken, zit zeker niet op de bankjes.",
+        "cover": "../images/sagrada1.jpg",
+        "album": 
+        [
+           "../images/sagrada1.jpg",
+            "../images/sagrada2.jpg",
+            "../images/sagrada3.jpg",
+            "../images/sagrada4.jpg",
+            "../images/sagrada5.jpg"
+        ]
+    },
+    {
+        "slug": "nacht",
+        "title": "Een nacht in Barcelona",
+        "intro": "Er valt heel veel te doen en te zien in Barcelona, maar ook in de nacht. In deze blog zal ik vertellen hoe ik en mijn vriendin een chille nacht doorbrengen in Barcelona.",
+        "description": "Ik en mijn vriendin zijn nachtpersonen en proberen altijd samen qualitytime door te brengen. Een avond hadden we beide zin in kebap en hadden we dus besloten om kebap te eten. We zaten buiten aan het terras, omdat het niet zo koud was. Na het eten hadden we zin in een dessert en zijn we eventjes naar binnen gegaan om te kijken. Wanneer we terug naar buiten gingen, zat er een zwerver aan ons tafel die onze leftovers aan het eten was. Dat was de highlight van onze avond. Erna besloten we om een lounge te bezoeken. Daar hebben we geshisheerd en samen uno gespeeld. Die dag was er ook een match van Barcelona tegen Real Madrid. Dat maakte de sfeer in de lounge nog gezelliger, want elke keer dat Barcelona scoorde, begon iedereen te roepen. Het was een geslaagde avond.",
+        "cover": "../images/lounge2.jpg",
+        "album": 
+        [
+            "../images/lounge1.jpg",
+            "../images/lounge2.jpg",
+            "../images/lounge3.jpg",
+            "../images/lounge4.jpg",
+            "../images/lounge5.jpg"
+        ]
+    }
+]

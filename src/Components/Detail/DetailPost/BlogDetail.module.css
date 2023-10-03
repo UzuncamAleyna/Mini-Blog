@@ -1,0 +1,46 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Container van detailpagina */
+.container{
+    padding: 0 3rem 3rem 3rem;
+}
+
+/* Titel van detailpagina */
+.blogTitle{
+    text-align: center;
+    font-size: 2rem;
+}
+
+/* Cover van detailpagina */
+.blogCover{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    display: block;
+    object-position: 80% 45%; /* om positie van foto te verplaatsen */
+    max-width: 100%;
+}
+
+/* Description van detailpagina */
+.descriptionText{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    text-align: justify;
+}
+
+/* Foto's uit album van detailpagina */
+.album{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+} 
+
+/* .album:hover{
+    transform: scale(1.5); 
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');

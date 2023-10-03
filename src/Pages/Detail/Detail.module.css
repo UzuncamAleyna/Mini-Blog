@@ -1,0 +1,13 @@
+/* Pijl om terug te keren */
+.arrow{
+    padding: 3rem;
+    text-decoration: none;
+    color: black;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+/* Hover op pijltje om terug te keren naar homepagina */
+.arrow:hover{
+    color: #a40047;
+}
